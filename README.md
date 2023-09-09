@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">Code Craftsman | Problem Solver | Passionate Developer</h3>
-<img align = "right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align = "right" alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 
 - 🌱 I’m currently learning **DSA and COAL(Computer organization and assembly language)**
 
