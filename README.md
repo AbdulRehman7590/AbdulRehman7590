@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">Code Craftsman | Problem Solver | Passionate Developer</h3>
-<img align = "right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman7590&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman7590" /> </p>
+<img align = "right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 - 🌱 I’m currently learning **DSA and COAL(Computer organization and assembly language)**
 
