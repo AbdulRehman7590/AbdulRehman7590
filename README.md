@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulRehman7590&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulRehman7590" /> </p>
 
-- 🌱 I’m currently learning **DSA and COAL(Computer organization and assembly language)**
+- 🌱 I’m currently learning **DataBase Management and Theory of Automata**
 
 - 💬 Ask me about **C++, C#, Python, HTML**
 
