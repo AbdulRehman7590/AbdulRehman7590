@@ -73,19 +73,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| **Simplicity MCA CRM** | Full-stack CRM with application, merchant & admin portals, DocuSign, Twilio & webhook automation | `Next.js` `Node` `PostgreSQL` |
-| **Face Authentication System** | 2-factor login with real-time face verification, liveness detection & AES-256 encryption | `FastAPI` `MERN` `OpenCV` |
-| **Edura — LMS** | Institute LMS with role-based access, drag-and-drop course builder & bulk CSV attendance | `Next.js` `TypeScript` `.NET` |
-| **DigiDocs** | Document management with role-based approvals, audit logs & AI-assisted generation | `ASP.NET Core 8` `EF Core` |
-| **Charity Network** | Odoo 17 platform for Nepal — e-commerce, e-learning & 10+ custom modules | `Odoo 17` `Python` `XML` |
-| **JARVIS** | Voice-controlled desktop assistant powered by the Gemini API | `Python` `PySide6` `Gemini` |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-
 ## 📊 GitHub Analytics
 
 <div align="center">
