@@ -36,7 +36,9 @@
 </td>
 <td valign="top" width="42%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=380&height=120&lines=Turning+ideas+into+scalable+software;AI+%2B+Full-Stack+Engineer;Always+learning%2C+always+building" alt="about typing" />
+</div>
 
 </td>
 </tr>
@@ -133,7 +135,15 @@
 
 </div>
 
-<!-- ===================== FOOTER BANNER ===================== -->
-<img width="100%" alt="footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:6366F1&height=120&section=footer" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
-<div align="center"><i>💡 I enjoy solving development challenges — from optimizing performance to crafting interactive, intelligent UIs.</i></div>
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="random dev quote" />
+</div>
+
+<!-- ===================== FOOTER BANNER ===================== -->
+<img width="100%" alt="footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:6366F1&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=26&fontAlignY=68&desc=Open%20to%20work%20and%20open-source%20collaboration&descAlignY=90&descSize=13" />
+
+<div align="center"><sub>⭐️ Feel free to explore and star the repositories you find useful!</sub></div>
