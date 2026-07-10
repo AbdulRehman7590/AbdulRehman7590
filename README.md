@@ -1,82 +1,157 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">Problem Solver | Passionate Developer | Building Smart & Scalable Solutions 🚀</h3>
+<!-- ===================== HEADER BANNER ===================== -->
+<img width="100%" alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:22D3EE&height=210&section=header&text=Abdul%20Rehman&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%7C%20AI%20and%20Full-Stack%20Developer&descSize=20&descAlignY=55&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulRehman7590&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulRehman7590" />
-</p>
+<div align="center">
 
----
+<!-- Typing animation -->
+<a href="https://github.com/AbdulRehman7590">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;AI+Engineer;.NET+Developer;Odoo+17+Developer" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me  
-- 🌱 I’m currently learning **AI, Information Security, and Computer Vision**  
-- 👨‍💻 Part-time working on **Odoo 17** development  
-- 👯 I’m looking to collaborate on **full-stack web apps, and open source projects**  
-- 💬 Ask me about **C++, C#, Python, Web Development, and Odoo ERP**  
-- 📫 How to reach me **abrehman1748@gmail.com**  
-
----
-
-## 🔗 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-rehman-bb5842265" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AbdulRehman7590&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
+  <a href="https://github.com/AbdulRehman7590?tab=followers">
+    <img src="https://img.shields.io/github/followers/AbdulRehman7590?label=Followers&style=flat&color=a855f7" alt="followers" />
   </a>
-  <a href="https://instagram.com/itz__me__rehman" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/theleostar3" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/CS_Graduate-a855f7?style=flat" alt="cs graduate" />
+  <img src="https://img.shields.io/badge/Open_to_Work-22c55e?style=flat" alt="open to work" />
 </p>
 
----
+</div>
 
-## 🛠️ Languages & Tools  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
-### 🌐 Frontend  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-</p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-### 🖥️ Backend  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="58%">
 
-### 🗄️ Database & Cloud  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-</p>
+- 🎓 **B.S. Computer Science** graduate from **UET Lahore** (2022 – 2026)
+- 🤖 **AI Engineer & Full-Stack Developer** — I work across **AI/ML, Next.js, MERN, .NET & Odoo ERP**
+- 💼 Built AI-powered Odoo modules & full-stack platforms at **SincSol**, and evaluated LLMs at **Turing**
+- 🎯 Open to **full-time software roles** and freelance / open-source collaboration
+- 🌱 Currently deep-diving into **AI, Information Security & Computer Vision**
+- 💬 Ask me about **Python, C#, C++, Web Development & Odoo ERP**
+- 📫 Reach me at **abrehman1748@gmail.com**
 
-### 🔧 Other Tools  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
+</td>
+<td valign="top" width="42%">
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding" />
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman7590&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman7590&" alt="GitHub Streak" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
-### 🎵 Fun Fact  
-💡 I enjoy solving web development challenges, from optimizing performance to making UIs more interactive!  
+## 🧰 Tech Stack
+
+<div align="center">
+
+**🧠 Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cs,cpp,ts,js,php,html,css&perline=8" alt="languages" />
+
+**🎨 Frontend &nbsp;•&nbsp; ⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,flask,dotnet&perline=9" alt="frameworks" />
+
+**🗄️ Databases &nbsp;•&nbsp; 🤖 AI / Data**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,tensorflow,sklearn,opencv&perline=8" alt="databases and ai" />
+
+**🔧 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,linux&perline=8" alt="tools" />
+
+<sub>Also working with <b>Odoo 17</b> · Pandas · NumPy · Selenium · Streamlit · REST APIs</sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| **Simplicity MCA CRM** | Full-stack CRM with application, merchant & admin portals, DocuSign, Twilio & webhook automation | `Next.js` `Node` `PostgreSQL` |
+| **Face Authentication System** | 2-factor login with real-time face verification, liveness detection & AES-256 encryption | `FastAPI` `MERN` `OpenCV` |
+| **Edura — LMS** | Institute LMS with role-based access, drag-and-drop course builder & bulk CSV attendance | `Next.js` `TypeScript` `.NET` |
+| **DigiDocs** | Document management with role-based approvals, audit logs & AI-assisted generation | `ASP.NET Core 8` `EF Core` |
+| **Charity Network** | Odoo 17 platform for Nepal — e-commerce, e-learning & 10+ custom modules | `Odoo 17` `Python` `XML` |
+| **JARVIS** | Voice-controlled desktop assistant powered by the Gemini API | `Python` `PySide6` `Gemini` |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman7590&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=6366f1&icon_color=22d3ee" alt="stats" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman7590&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=6366f1" alt="top languages" />
+
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=AbdulRehman7590&hide_border=true&theme=tokyonight&ring=6366f1&fire=a855f7&currStreakLabel=22d3ee" alt="streak" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman7590&bg_color=0d1117&color=a5b4fc&line=6366f1&point=22d3ee&area=true&hide_border=true" alt="activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman7590&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+
+</div>
+
+## 🐍 Watch my contributions get eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRehman7590/AbdulRehman7590/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulRehman7590/AbdulRehman7590/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/AbdulRehman7590/AbdulRehman7590/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> The snake activates once you add the workflow (see `SETUP.md`). Until then this image may not render.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+## 🏆 Achievements
+
+- 🥇 **NSCT (National Skill Competency Test)** — 64/100, **92.2 national percentile**
+- 🤝 **Raise Your Hack** — Certificate of Completion, LabLab.AI
+- ⭐ **5-Star Gold Badge** in Python — HackerRank
+- ⭐ **5-Star Gold Badge** in Problem Solving — HackerRank
+- 📜 **HackerRank Verified Certifications** — SQL (Basic, Intermediate, Advanced) & Problem Solving (Basic)
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdulrehman7590/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:abrehman1748@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.hackerrank.com/profile/theleostar3">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+<a href="https://www.instagram.com/itz__me__rehman/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/AbdulRehman7590">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<!-- ===================== FOOTER BANNER ===================== -->
+<img width="100%" alt="footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:6366F1&height=120&section=footer" />
+
+<div align="center"><i>💡 I enjoy solving development challenges — from optimizing performance to crafting interactive, intelligent UIs.</i></div>
