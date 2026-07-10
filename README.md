@@ -20,8 +20,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
 <table>
@@ -29,10 +27,9 @@
 <td valign="top" width="58%">
 
 - 🎓 **B.S. Computer Science** graduate from **UET Lahore** (2022 – 2026)
-- 🤖 **AI Engineer & Full-Stack Developer** — I work across **AI/ML, Next.js, MERN, .NET & Odoo ERP**
+- 🤖 **Software | AI Engineer & Full-Stack Developer** — I work across **AI/ML, Next.js, MERN, .NET & Odoo ERP**
 - 💼 Built AI-powered Odoo modules & full-stack platforms at **SincSol**, and evaluated LLMs at **Turing**
 - 🎯 Open to **full-time software roles** and freelance / open-source collaboration
-- 🌱 Currently deep-diving into **AI, Information Security & Computer Vision**
 - 💬 Ask me about **Python, C#, C++, Web Development & Odoo ERP**
 - 📫 Reach me at **abrehman1748@gmail.com**
 
@@ -90,8 +87,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman7590&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
 </div>
 
 ## 🐍 Watch my contributions get eaten
@@ -104,8 +99,6 @@
   </picture>
 </div>
 
-> The snake activates once you add the workflow (see `SETUP.md`). Until then this image may not render.
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 ## 🏆 Achievements
@@ -115,6 +108,8 @@
 - ⭐ **5-Star Gold Badge** in Python — HackerRank
 - ⭐ **5-Star Gold Badge** in Problem Solving — HackerRank
 - 📜 **HackerRank Verified Certifications** — SQL (Basic, Intermediate, Advanced) & Problem Solving (Basic)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 ## 🔗 Connect With Me
 
