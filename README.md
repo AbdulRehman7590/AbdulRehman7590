@@ -3,6 +3,7 @@
 
 <div align="center">
 
+
 <!-- Typing animation -->
 <a href="https://github.com/AbdulRehman7590">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;AI+Engineer;.NET+Developer;Odoo+17+Developer" alt="Typing SVG" />
