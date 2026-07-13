@@ -3,7 +3,6 @@
 
 <div align="center">
 
-
 <!-- Typing animation -->
 <a href="https://github.com/AbdulRehman7590">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;AI+Engineer;.NET+Developer;Odoo+17+Developer" alt="Typing SVG" />
@@ -17,6 +16,9 @@
   </a>
   <img src="https://img.shields.io/badge/CS_Graduate-a855f7?style=flat" alt="cs graduate" />
   <img src="https://img.shields.io/badge/Open_to_Work-22c55e?style=flat" alt="open to work" />
+  <a href="https://abdulrehmanportfolio-coral.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
 </p>
 
 </div>
@@ -32,6 +34,7 @@
 - 💼 Built AI-powered Odoo modules & full-stack platforms at **SincSol**, and evaluated LLMs at **Turing**
 - 🎯 Open to **full-time software roles** and freelance / open-source collaboration
 - 💬 Ask me about **Python, C#, C++, Web Development & Odoo ERP**
+- 🌐 Check out my **[Portfolio](https://abdulrehmanportfolio-coral.vercel.app/)**
 - 📫 Reach me at **abrehman1748@gmail.com**
 
 </td>
@@ -118,6 +121,9 @@
 
 <div align="center">
 
+<a href="https://abdulrehmanportfolio-coral.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/abdulrehman7590/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
